@@ -31,3 +31,5 @@ You can run static-server, watching of changes and livereloading of the codebase
 ```
 npm run dev
 ```
+
+THANKS FOR READING!
